@@ -1,0 +1,12 @@
+<application>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>
