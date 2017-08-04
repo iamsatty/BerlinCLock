@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.utilities.LocalTimeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-08-04T01:15:44" hostname="DELL" time="0.067">
+  <properties/>
+  <testcase name="testGetSeconds" classname="com.ubs.opsit.utilities.LocalTimeTest" time="0.064"/>
+  <testcase name="testGetHours" classname="com.ubs.opsit.utilities.LocalTimeTest" time="0.0"/>
+  <testcase name="testInvalidLocalMinute" classname="com.ubs.opsit.utilities.LocalTimeTest" time="0.0"/>
+  <testcase name="testInvalidLocalSecond" classname="com.ubs.opsit.utilities.LocalTimeTest" time="0.001"/>
+  <testcase name="testInvalidLocalHour" classname="com.ubs.opsit.utilities.LocalTimeTest" time="0.0"/>
+  <testcase name="testGetMinutes" classname="com.ubs.opsit.utilities.LocalTimeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

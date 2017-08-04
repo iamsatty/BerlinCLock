@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.TimeConverterImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-08-04T01:15:44" hostname="DELL" time="0.001">
+  <properties/>
+  <testcase name="testINullLocalTime" classname="com.ubs.opsit.interviews.TimeConverterImplTest" time="0.0"/>
+  <testcase name="testTimeConverter" classname="com.ubs.opsit.interviews.TimeConverterImplTest" time="0.0"/>
+  <testcase name="testInvalidLocalTime" classname="com.ubs.opsit.interviews.TimeConverterImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
