@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/npmenon/CollegeManagementSystem.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LouisBarranqueiro/ZPareo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\IdeaWS_2017" />
